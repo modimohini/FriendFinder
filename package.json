@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.1",
     "inquire": "^0.4.8",
     "require": "^2.4.20"
   },
