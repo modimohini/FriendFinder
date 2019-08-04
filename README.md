@@ -1,7 +1,7 @@
 # FriendFinderr
 ### Introduction 
 
-Friend-Finder app makes life eay to find friend in new city with whom the thought process and personality alignes. 
+Friend-Finder app makes life easy to find friend in new city with whom the thought process and personality alignes. 
 
 * 10 Personality questions allow each user to introduce themself and app will find frience aligning to the personality match 
 * Each answer are on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
