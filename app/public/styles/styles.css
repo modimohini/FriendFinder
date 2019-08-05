@@ -1,0 +1,31 @@
+body {
+    /* Typography */
+    font-size: 18px;
+    line-height: 27px;
+    color: rgb(3, 0, 29);
+    background-image: url("../images/flower-3216005_960_720.jpg");
+  
+   
+  }
+  
+
+  #container {
+    /* Orange Energy */
+    
+    background-repeat: no-repeat;
+    background-position: 45% 35%;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+    /* We need to center the avatar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+h2,
+h3 {
+  font-size: 22px;
+}
