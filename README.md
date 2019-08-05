@@ -15,3 +15,7 @@ Friend-Finder app makes life easy to find friend in new city with whom the thoug
 * `apiRoutes.js` file contain two routes:
    * A GET route with the url `/api/friends`, to display a JSON of all possible friends.
    * A POST routes `/api/friends`, used to handle incoming survey results. This route also handle the compatibility logic.
+
+
+# The Applicaton is deployed on Heroku 
+https://warm-brushlands-27949.herokuapp.com/
