@@ -1,4 +1,4 @@
-# FriendFinderr
+# FriendFinder
 ### Introduction 
 
 Friend-Finder app makes life easy to find friend in new city with whom the thought process and personality alignes. 
