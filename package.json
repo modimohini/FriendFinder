@@ -4,7 +4,7 @@
   "description": "Friend-Finder app makes life easy to find friend in new city with whom the thought process and personality alignes.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "inquire": "^0.4.8",
     "path": "^0.12.7",
     "require": "^2.4.20"
